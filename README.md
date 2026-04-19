@@ -1,16 +1,16 @@
-# Selim 👋
+# Selim Karaca 👋
 
 ### 🚀 About Me
-I am an 8th-grade student passionate about software systems and architecture. I enjoy pushing the limits of mobile devices through tablet and phone modding, and I actively manage my own Minecraft servers.
+I am an 8th-grade student passionate about software systems and architecture. I focus on pushing the boundaries of mobile hardware through advanced firmware porting and managing high-performance Minecraft environments.
 
-- 📱 **Tablet & Phone Modding:** Performing system modifications and low-level software development on Android devices.
-- 🕹️ **Minecraft Server Management:** Working on server architecture, network tunneling, and advanced plugin configurations.
+- 📱 **Mobile Systems:** Specializing in UEFI porting and low-level kernel modifications for ARM64 platforms.
+- 🕹️ **Minecraft Server Management:** Architecting robust server environments with a focus on network security and performance optimization.
 
 ---
 
 ### 🛠️ Technologies & Tools
 
-#### 💻 Operating Systems & Software
+#### 💻 Operating Systems & Low-Level
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -20,35 +20,38 @@ I am an 8th-grade student passionate about software systems and architecture. I 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![Orange Pi](https://img.shields.io/badge/Orange%20Pi-FF6600?style=for-the-badge&logo=orange-pi&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-#### 🐳 Infrastructure & Services
+#### 🐳 Infrastructure & AI
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AdGuard](https://img.shields.io/badge/AdGuard-72B447?style=for-the-badge&logo=adguard&logoColor=white)
-![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC?style=for-the-badge&logo=jellyfin&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge&logo=ollama&logoColor=white)
 
 ---
 
 ### 📂 Featured Projects
 
-#### 📱 Mobile UEFI Porting & System Modding
-Exploring hardware boundaries through UEFI (Project Mu-Silicium) integration:
-* **Target Devices:** Samsung Galaxy Tab A7 (SM-T500) and Xiaomi Redmi Note 7 (lavender).
-* **Technical Details:** Kernel-level Device Tree (.dts/DTB) editing, boot process optimization, and UEFI firmware injection on Qualcomm-based systems.
+#### 📱 Mobile UEFI Porting & Low-Level Development
+Working on bringing desktop-class bootloaders to ARM64 mobile platforms using the **Project Mu / Mu-Silicium** framework (based on TianoCore EDK2):
+
+* **Target Devices:** Advanced porting efforts on **Samsung Galaxy Tab A7 (SM-T500)** and **Xiaomi Redmi Note 7 (lavender)**.
+* **Firmware Engineering:** * Patching **Device Tree Source (.dts)** and configuring **ACPI tables** for hardware initialization.
+    * Managing **Memory Map** adjustments to ensure stability between UEFI runtime and TrustZone/TBL.
+    * Implementing **SimpleFBDxe** for display output and managing framebuffer configurations.
+* **Goal:** Enabling stable UEFI environments to boot alternative operating systems on Qualcomm Snapdragon (SDM660/SM6115) platforms.
 
 #### 🎮 Minecraft Server Management
-Building high-performance and secure gaming environments:
-* **Infrastructure:** PaperMC-based server optimization and secure network tunneling via Playit.gg.
-* **Management:** Advanced configuration of critical plugins (EssentialsX, Voice Chat, etc.), domain mapping, and server security.
+Building and maintaining high-availability gaming infrastructures:
+* **Architecture:** PaperMC-based server optimization with custom plugin hooks.
+* **Network & Security:** Secure tunneling via **Playit.gg**, domain mapping, and advanced configuration of **EssentialsX** and **Voice Chat** systems.
+* **Optimization:** Fine-tuning JVM arguments and server properties for maximum TPS and player experience.
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=aslic&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslic&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=herkesanlamaz46-cmyk&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herkesanlamaz46-cmyk&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
 </p>
 
 ---
@@ -61,5 +64,5 @@ Building high-performance and secure gaming environments:
 ---
 
 <p align="center">
-  <i>This profile is regularly updated with new projects and technical experiments.</i>
+  <i>This profile is regularly updated with technical experiments and system-level projects.</i>
 </p>
