@@ -56,7 +56,7 @@ Yüksek performanslı ve güvenli oyun ortamları oluşturuyorum:
 ### 📩 İletişim
 
 [![Email](https://img.shields.io/badge/Email-vane%40linuxmail.org-D14836?style=for-the-badge&logo=linux&logoColor=white)](mailto:vane@linuxmail.org)
-[![Discord](https://img.shields.io/badge/Discord-aslic-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/aslic)
+[![Discord](https://img.shields.io/badge/Discord-veyrop58-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/veyrop58)
 
 ---
 
