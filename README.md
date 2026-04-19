@@ -1,28 +1,28 @@
 # Selim Karaca 👋
 
-### 🚀 Hakkımda
-Yazılım dünyasına ve sistem mimarilerine meraklı bir 8. sınıf öğrencisiyim. Tablet ve telefon modding işleriyle uğraşmayı, cihazlara yeni yetenekler kazandırmayı ve kendi Minecraft sunucularımı yönetmeyi seviyorum.
+### 🚀 About Me
+I am an 8th-grade student passionate about software systems and architecture. I enjoy pushing the limits of mobile devices through tablet and phone modding, and I actively manage my own Minecraft servers.
 
-- 📱 **Tablet & Telefon Modding:** Android cihazlar üzerinde sistem modifikasyonları ve alt seviye yazılım geliştirmeleri yapıyorum.
-- 🕹️ **Minecraft Sunucu Yönetimi:** Sunucu mimarisi, ağ tünelleme ve gelişmiş eklenti yapılandırmaları üzerinde çalışıyorum.
+- 📱 **Tablet & Phone Modding:** Performing system modifications and low-level software development on Android devices.
+- 🕹️ **Minecraft Server Management:** Working on server architecture, network tunneling, and advanced plugin configurations.
 
 ---
 
-### 🛠️ Teknolojiler & Araçlar
+### 🛠️ Technologies & Tools
 
-#### 💻 İşletim Sistemleri & Yazılım
+#### 💻 Operating Systems & Software
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-#### ⚙️ Donanım & Gömülü Sistemler
+#### ⚙️ Hardware & Embedded Systems
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![Orange Pi](https://img.shields.io/badge/Orange%20Pi-FF6600?style=for-the-badge&logo=orange-pi&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-#### 🐳 Altyapı & Servisler
+#### 🐳 Infrastructure & Services
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AdGuard](https://img.shields.io/badge/AdGuard-72B447?style=for-the-badge&logo=adguard&logoColor=white)
 ![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC?style=for-the-badge&logo=jellyfin&logoColor=white)
@@ -30,21 +30,21 @@ Yazılım dünyasına ve sistem mimarilerine meraklı bir 8. sınıf öğrencisi
 
 ---
 
-### 📂 Öne Çıkan Çalışmalarım
+### 📂 Featured Projects
 
 #### 📱 Mobile UEFI Porting & System Modding
-Cihazların yazılımsal sınırlarını zorlayarak UEFI (Project Mu-Silicium) entegrasyonu üzerine çalışıyorum:
-* **Cihazlar:** Samsung Galaxy Tab A7 (SM-T500) ve Xiaomi Redmi Note 7 (lavender).
-* **Yazılımsal Detaylar:** Kernel düzeyinde cihaz ağacı (.dts/DTB) düzenlemeleri, önyükleme (boot) süreçlerinin iyileştirilmesi ve Qualcomm tabanlı sistemlerde UEFI firmware injection işlemleri.
+Exploring hardware boundaries through UEFI (Project Mu-Silicium) integration:
+* **Target Devices:** Samsung Galaxy Tab A7 (SM-T500) and Xiaomi Redmi Note 7 (lavender).
+* **Technical Details:** Kernel-level Device Tree (.dts/DTB) editing, boot process optimization, and UEFI firmware injection on Qualcomm-based systems.
 
-#### 🎮 Minecraft Sunucu Yönetimi
-Yüksek performanslı ve güvenli oyun ortamları oluşturuyorum:
-* **Altyapı:** PaperMC tabanlı sunucu optimizasyonları ve Playit.gg üzerinden güvenli ağ tünelleme süreçleri.
-* **Yönetim:** EssentialsX ve Voice Chat gibi kritik eklentilerin yapılandırılması, domain eşleme ve sunucu güvenliği.
+#### 🎮 Minecraft Server Management
+Building high-performance and secure gaming environments:
+* **Infrastructure:** PaperMC-based server optimization and secure network tunneling via Playit.gg.
+* **Management:** Advanced configuration of critical plugins (EssentialsX, Voice Chat, etc.), domain mapping, and server security.
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### 📊 GitHub Stats
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=aslic&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px"/>
@@ -53,7 +53,7 @@ Yüksek performanslı ve güvenli oyun ortamları oluşturuyorum:
 
 ---
 
-### 📩 İletişim
+### 📩 Contact Me
 
 [![Email](https://img.shields.io/badge/Email-vane%40linuxmail.org-D14836?style=for-the-badge&logo=linux&logoColor=white)](mailto:vane@linuxmail.org)
 [![Discord](https://img.shields.io/badge/Discord-veyrop58-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/veyrop58)
@@ -61,5 +61,5 @@ Yüksek performanslı ve güvenli oyun ortamları oluşturuyorum:
 ---
 
 <p align="center">
-  <i>Bu profil düzenli olarak yeni projeler ve teknik çalışmalarla güncellenmektedir.</i>
+  <i>This profile is regularly updated with new projects and technical experiments.</i>
 </p>
